@@ -1,3 +1,4 @@
+#
 CentOS简单快速搭建shadowsocks
 
 开始安装
